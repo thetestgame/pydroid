@@ -1,4 +1,4 @@
-<img src="https://static.wikia.nocookie.net/frstarwars/images/e/e4/Logo_Droid_Depot_SWGE.png/revision/latest?cb=20200730141444" align="right" width="150">
+<img src=".github/logo.png" align="right" width="250">
 
 # PyDroidDepot
 
